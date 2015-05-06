@@ -1,9 +1,0 @@
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\bin\Debug\Section3CC.exe.config
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\bin\Debug\Section3CC.exe
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\bin\Debug\Section3CC.pdb
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.frmMain.resources
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.Properties.Resources.resources
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.csproj.GenerateResource.Cache
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.exe
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.pdb
-C:\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\Section3CC\obj\Debug\Section3CC.csprojResolveAssemblyReference.cache
