@@ -30,7 +30,7 @@ namespace Section3CC
 
 		public void LoadArrayList()
 		{
-			string[] lines = System.IO.File.ReadAllLines( @"C:\\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\actors.txt" );
+			string[] lines = System.IO.File.ReadAllLines( @"C:\\Users\Rose\Documents\GitHub\Section3CC\actors.txt" );
 
 			foreach( string Actor in lines )
 			{
@@ -41,7 +41,7 @@ namespace Section3CC
 
 		void WriteArrayList()
 		{
-			var path = @"C:\\Users\Rose\SkyDrive\Visual Studio 2015\Projects\Section3CC\actors.txt";
+			var path = @"C:\\Users\Rose\Documents\GitHub\Section3CC\actors.txt";
 			
 			var streamWriter = File.CreateText( path );
 			foreach( object Actor in ActorArrayList )
